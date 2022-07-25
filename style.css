@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header-container {
+  width: 90%;
+  margin: 0 auto;
+  border-bottom: 1px solid gray;
+}
+.logo-title {
+  display: flex;
+}
+ul {
+  text-decoration: none;
+  display: flex;
+}
+li {
+  list-style-type: none;
+  margin-right: 0.5rem;
+}
+.main-container {
+  padding-block: 3rem;
+  width: 70%;
+  margin: 0 auto;
+}
+.faq-container {
+  padding-block: 1rem;
+}
+h2 {
+  padding-bottom: 1.5rem;
+}
+p {
+  padding-block: 0.2rem;
+}
