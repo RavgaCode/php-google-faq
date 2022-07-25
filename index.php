@@ -64,16 +64,16 @@ $faqList =[
     <header>
         <div class="header-container">
             <div class="logo-title">
-                <img src="logo_google.svg" alt="Logo Google">
+                <img src="logo-google.png" alt="Logo Google">
                 <h1>Privacy & Termini</h1>
             </div>
             <nav>
                 <ul>
-                    <li>Introduzione</li>
-                    <li>Norme sulla privacy</li>
-                    <li>Termini di servizio</li>
-                    <li>Tecnologie</li>
-                    <li>Domande frequenti</li>
+                    <li><h4>Introduzione</h4></li>
+                    <li><h4>Norme sulla privacy</h4></li>
+                    <li><h4>Termini di servizio</h4></li>
+                    <li><h4>Tecnologie</h4></li>
+                    <li class="blue-hightlightened"><h4>Domande frequenti</h4></li>
                 </ul>
             </nav>
         </div>
